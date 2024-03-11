@@ -1,0 +1,17 @@
+.heading {
+    position: absolute;
+    z-index: 10;
+    top: 170px;
+    left: 650px;
+    color: white;
+}
+
+.heading p {
+    font-size: 12px;
+}
+
+.btn {
+    width: 70px;
+    height: 30px;
+    font-size: 12px;
+}
